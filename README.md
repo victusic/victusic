@@ -37,13 +37,13 @@ Hi 👋 My name is Viktor
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victusic&layout=donut-vertical)
+![Viktor GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victusic&exclude_repo=SoundProductionDesktopApp,FlowersIYouApi,MusicalCourse&theme=transparent&layout=donut-vertical)
 
-<!--<img src="https://github-profile-trophy.vercel.app/?username=victusic&theme=juicyfresh&no-bg=true" />-->
+<img src="https://github-profile-trophy.vercel.app/?username=victusic&theme=juicyfresh&no-bg=true" />
 
 ![Codewars Badge](https://www.codewars.com/users/victusic/badges/large)
 
-<!--
+
 ### GitHubStats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victusic)]
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victusic&theme=transparent)]
+

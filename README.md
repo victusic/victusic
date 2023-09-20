@@ -74,7 +74,7 @@ Then I got to <a href="https://www.epam.kz/">EPAM</a>, where I got acquainted wi
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victusic&exclude_repo=SoundProductionDesktopApp,FlowersIYouApi,MusicalCourse&theme=transparent&layout=donut-vertical" />
     </td>
     <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=victusic&theme=juicyfresh&no-bg=true" style="width: 70%;"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=victusic&theme=juicyfresh&no-bg=true" style="width: 65%;"/>
         <br>
         <img src="https://github-readme-stats.vercel.app/api?username=victusic&theme=transparent" />
     </td>

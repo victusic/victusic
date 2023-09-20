@@ -1,7 +1,18 @@
 Hi 👋 My name is Viktor
 =======================
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Junior+front-end+developer)](https://git.io/typing-svg)
+--------------------------
+<p>I started my way in programming at school, in 7th grade, then I started to learn markup, but later, I got a book on programming in Python:book:, and since then I finally got interested in programming:zap:. I wrote my first serious program for a school project in 8th or 9th grade, and since then I decided to connect my life with programming:smiley_cat:.</p>
+
+<p>Further:feet:, I entered the Krasnodar College of Electronic Instrumentation in Krasnodar, where I decided to delve into web development, at that time I verstaal landings of different levels of complexity and seriousness:ghost:, but in addition studied the programs of the educational institution, such as development on C#.</p>
+
+<p>Since the 3rd year I decided to finally delve into web development and began to develop more serious applications, using jquery and php. By the end of college I already had projects with full-fledged web sites:flower_playing_cards:.
+Then I got to epam, where I got acquainted with React, and since then my life turned upside down:bomb::collision::tada:).</p>
+
+<p>I entered the Southern Federal University:department_store:, and from that moment I immersed myself in all modern technologies: node js instead of php, react/redux instead of jquery, scss instead of css, etc.</p>
+
+<p>At the moment I develop cool:art: and modern projects and start to lead an active life of an it specialist, all the coolest things are still ahead of me:sunrise:...</p>
+
 --------------------------
 
 ### Front-end skills
@@ -37,13 +48,30 @@ Hi 👋 My name is Viktor
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
 
-![Viktor GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victusic&exclude_repo=SoundProductionDesktopApp,FlowersIYouApi,MusicalCourse&theme=transparent&layout=donut-vertical)
+--------------------------
 
-<img src="https://github-profile-trophy.vercel.app/?username=victusic&theme=juicyfresh&no-bg=true" />
+### GitHub Stats
 
+<table style="border-collapse: collapse;">
+  <tr>
+    <td rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victusic&exclude_repo=SoundProductionDesktopApp,FlowersIYouApi,MusicalCourse&theme=transparent&layout=donut-vertical" />
+    </td>
+    <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=victusic&theme=juicyfresh&no-bg=true" style="width: 77%;"/>
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api?username=victusic&theme=transparent" />
+    </td>
+  </tr>
+</table>
+
+
+--------------------------
+
+### CodeWars Stats
 ![Codewars Badge](https://www.codewars.com/users/victusic/badges/large)
 
 
-### GitHubStats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victusic&theme=transparent)]
+
+
 

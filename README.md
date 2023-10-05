@@ -1,6 +1,6 @@
 Hi 👋 I'm Viktor Khoroshilov 
 =======================
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Junior+front-end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Front-end+developer)](https://git.io/typing-svg)
 --------------------------
 ###### I'm a front-end developer, I'm 21 years old, I love building websites on react. I started programming since childhood, since then I have secondary professional education, and now I am getting a higher education, studying in the second year. I did an internship at <a href="https://www.epam.kz/">EPAM</a> and also worked as a programmer in a small company.
 

@@ -9,53 +9,54 @@ Hi 👋 I'm Viktor Khoroshilov
 ### Skills
 
 <div align="left">
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> &nbsp;&nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" /> &nbsp;&nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS/SCSS" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="NodeJs" /> &nbsp;
 </div>
 <br/>
 <div align="left">
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> &nbsp;
-  <img height="46" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> &nbsp;
-  <img height="46" src="https://img.icons8.com/color/48/chakra-ui.png" alt="chakra-ui"/> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" /> &nbsp;
+  <img height="46" src="https://img.icons8.com/fluency/48/nextjs.png" alt="NextJs"/> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" alt="jQuery" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind-Css" /> &nbsp;
+  <img height="46" src="https://img.icons8.com/color/48/chakra-ui.png" alt="chakra-ui" alt="Chakra Ui" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="StoryBook" /> &nbsp;
 </div>
 <br/>
 <div align="left">
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" /> &nbsp;
-  <img height="44" src="https://github.com/uiwjs/file-icons/blob/master/icon/prettier.svg" /> &nbsp;
-  <img height="42" src="https://github.com/gilbarbara/logos/blob/main/logos/nx.svg" /> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="EsLint" /> &nbsp;
+  <img height="44" src="https://github.com/uiwjs/file-icons/blob/master/icon/prettier.svg" alt="Prettier" /> &nbsp;
+  <img height="42" src="https://github.com/gilbarbara/logos/blob/main/logos/nx.svg" alt="Nx" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="Npm" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn" /> &nbsp;
 </div>
 <br/>
 <div align="left">
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> &nbsp;
-  <img height="46" src="https://img.icons8.com/color/48/sql.png" alt="sql"/> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" /> &nbsp;
+  <img height="46" src="https://img.icons8.com/color/48/sql.png" alt="SQL" /> &nbsp;
 </div>
 <br/>
 <div align="left">
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> &nbsp;
-  <img height="46" src="https://img.icons8.com/color/46/microsoft-sql-server.png" alt="microsoft-sql-server"/> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /> &nbsp;
-  <img height="46" src="https://img.icons8.com/nolan/46/express-js.png" alt="express-js"/> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySql" /> &nbsp;
+  <img height="46" src="https://img.icons8.com/color/46/microsoft-sql-server.png" alt="microsoft-sql-server" alt="Sql Server" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" /> &nbsp;
+  <img height="46" src="https://img.icons8.com/nolan/46/express-js.png" alt="ExpressJs"/> &nbsp;
 </div>
 <br/>
 <div align="left">
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> &nbsp;
-  <img height="46" src="https://img.icons8.com/glyph-neue/46/ffffff/github.png" alt="github"/> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &nbsp;
-  <img height="46" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt=Git"" /> &nbsp;
+  <img height="46" src="https://img.icons8.com/glyph-neue/46/ffffff/github.png" alt="GitHub"/> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" /> &nbsp;
+  <img height="46" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" /> &nbsp;
   
   
 </div>

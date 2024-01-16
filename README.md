@@ -28,8 +28,8 @@ Hi 👋 I'm Viktor Khoroshilov
 <br/>
 <div align="left">
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" /> &nbsp;
-  <img height="46" src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" alt="prettier" /> &nbsp;
-  <img height="46" src="https://unpkg.com/simple-icons@v11/icons/nx.svg" /> &nbsp;
+  <img height="44" src="https://github.com/uiwjs/file-icons/blob/master/icon/prettier.svg" /> &nbsp;
+  <img height="42" src="https://github.com/gilbarbara/logos/blob/main/logos/nx.svg" /> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /> &nbsp;
 </div>
@@ -56,6 +56,8 @@ Hi 👋 I'm Viktor Khoroshilov
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &nbsp;
   <img height="46" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp;
+  
+  
 </div>
 
 --------------------------

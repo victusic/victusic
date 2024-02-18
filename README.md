@@ -20,9 +20,10 @@ Hi 👋 I'm Viktor Khoroshilov
 <div align="left">
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" /> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" /> &nbsp;
+  <img height="46" src="https://cdn.worldvectorlogo.com/logos/recoil-js.svg" alt="Recoil" /> &nbsp;
   <img height="46" src="https://img.icons8.com/fluency/48/nextjs.png" alt="NextJs"/> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" alt="jQuery" /> &nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind-Css" /> &nbsp;
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind-Css" /> &nbsp;
   <img height="46" src="https://img.icons8.com/color/48/chakra-ui.png" alt="chakra-ui" alt="Chakra Ui" /> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="StoryBook" /> &nbsp;
 </div>
@@ -36,14 +37,14 @@ Hi 👋 I'm Viktor Khoroshilov
 </div>
 <br/>
 <div align="left">
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" /> &nbsp;
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" /> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" /> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" /> &nbsp;
   <img height="46" src="https://img.icons8.com/color/48/sql.png" alt="SQL" /> &nbsp;
 </div>
 <br/>
 <div align="left">
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySql" /> &nbsp;
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" /> &nbsp;
   <img height="46" src="https://img.icons8.com/color/46/microsoft-sql-server.png" alt="microsoft-sql-server" alt="Sql Server" /> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" /> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" /> &nbsp;
@@ -51,7 +52,7 @@ Hi 👋 I'm Viktor Khoroshilov
 </div>
 <br/>
 <div align="left">
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt=Git"" /> &nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" /> &nbsp;
   <img height="46" src="https://img.icons8.com/glyph-neue/46/ffffff/github.png" alt="GitHub"/> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" /> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" /> &nbsp;

@@ -31,7 +31,6 @@ Hi 👋 I'm Viktor Khoroshilov
 <div align="left">
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="EsLint" /> &nbsp;
   <img height="44" src="https://github.com/uiwjs/file-icons/blob/master/icon/prettier.svg" alt="Prettier" /> &nbsp;
-  <img height="42" src="https://github.com/gilbarbara/logos/blob/main/logos/nx.svg" alt="Nx" /> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="Npm" /> &nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn" /> &nbsp;
 </div>
